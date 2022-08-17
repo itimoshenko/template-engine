@@ -1,0 +1,9 @@
+{
+  "name": "template-engine",
+  "version": "0.1.0",
+  "description": "Simple template engine",
+  "author": "Ivan Timoshenko <tis1993@mail.ru>",
+  "bin": {
+    "template-engine": "./src/index.js"
+  }
+}
